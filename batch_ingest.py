@@ -1,12 +1,12 @@
-# """
-# Batch ingest Wordle answers between two dates
-# and write to text file. Should only be run once to 
-# generate the file, and then every day thereafter
-# append that day's answer with daily_ingest.py
-#
-# Author: lauram93@gmail.com
-# Date:   2024-Jun-07
-# """
+"""
+Batch ingest Wordle answers between two dates
+and write to text file. Should only be run once to 
+generate the file, and then every day thereafter
+append that day's answer with daily_ingest.py
+
+Author: lauram93@gmail.com
+Date:   2024-Jun-07
+"""
 from datetime import datetime, timedelta
 import requests
 
