@@ -1,10 +1,10 @@
 """
-API to check a word against the list
+API to check a word against the list of Wordle answers
 
 Author: lauram93@gmail.com
 Date:   2024-Jun-07
 """
-from flask import Flask, request, jsonify
+from flask import Flask, request, jsonify, render_template
 import json
 
 app = Flask(__name__)
@@ -12,6 +12,10 @@ app = Flask(__name__)
 def load_wordle_answers():
     with open("wordle_answers.txt", "r") as file:
         return [line.strip() for line in file.readlines()]
+
+@app.route('/')
+def index():
+    return render_template('index.html')
 
 @app.route("/check-word", methods=["POST"])
 def check_word():
@@ -29,9 +33,9 @@ def check_word():
             found = 1
 
     if found == 1:
-        return jsonify({"exists": True, "date": print_date})
+        return jsonify({"exists": True, "message": f"This word was used in Wordle on {print_date}"})
     else:
-        return jsonify({"exists": False})
+        return jsonify({"exists": False, "message": "This word has not been used in Wordle yet"})
 
 if __name__ == "__main__":
     app.run(debug=True)

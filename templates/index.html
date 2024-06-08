@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Check Word</title>
+</head>
+<body>
+    <h1>Enter a Word</h1>
+    <form onsubmit="submitForm(event)">
+        <label for="word">Word:</label>
+        <input type="text" id="word" name="word" required>
+        <button type="submit">Submit</button>
+    </form>
+    <p id="result"></p>
+
+    <script>
+        async function submitForm(event) {
+            event.preventDefault();
+            const word = document.getElementById('word').value;
+            const response = await fetch('{{ url_for("check_word") }}', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify({ word: word })
+            });
+            const result = await response.json();
+            console.log(result)
+            document.getElementById('result').innerText = result.message;
+        }
+    </script>
+</body>
+</html>
