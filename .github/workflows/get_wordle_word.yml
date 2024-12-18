@@ -1,5 +1,4 @@
-name: Fetch API Data
-
+name: Get Today's Wordle Word
 on:
   schedule:
     - cron: "59 23 * * *" # Runs at the end of the day
