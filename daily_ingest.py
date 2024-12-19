@@ -5,11 +5,11 @@ and append to list of words
 Author: lauram93@gmail.com
 Date:   2024-Jun-07
 """
-from datetime import date
+from datetime import date, timedelta
 import requests
 
 def get_todays_word():
-    today = date.today()
+    today = date.today()-timedelta(1)
     url = f"https://www.nytimes.com/svc/wordle/v2/{today}.json"
     print(url)
 
