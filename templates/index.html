@@ -15,7 +15,7 @@
     <script>
         async function submitForm(event) {
             event.preventDefault();
-            const word = document.getElementById('word').value;
+            const word = document.getElementById('word').value.toLowerCase();
             const response = await fetch('{{ url_for("check_word") }}', {
                 method: 'POST',
                 headers: {
