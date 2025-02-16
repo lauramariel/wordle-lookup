@@ -1337,3 +1337,4 @@
 {"id":2163,"solution":"rapid","print_date":"2025-02-12","days_since_launch":1334,"editor":"Tracy Bennett"}
 {"id":1550,"solution":"rumba","print_date":"2025-02-13","days_since_launch":1335,"editor":"Tracy Bennett"}
 {"id":1295,"solution":"ditty","print_date":"2025-02-14","days_since_launch":1336,"editor":"Tracy Bennett"}
+{"id":735,"solution":"crook","print_date":"2025-02-15","days_since_launch":1337,"editor":"Tracy Bennett"}
