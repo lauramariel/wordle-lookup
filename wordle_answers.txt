@@ -1360,3 +1360,4 @@
 {"id":1612,"solution":"troop","print_date":"2025-03-07","days_since_launch":1357,"editor":"Tracy Bennett"}
 {"id":1568,"solution":"navel","print_date":"2025-03-08","days_since_launch":1358,"editor":"Tracy Bennett"}
 {"id":1946,"solution":"greed","print_date":"2025-03-09","days_since_launch":1359,"editor":"Tracy Bennett"}
+{"id":526,"solution":"spite","print_date":"2025-03-10","days_since_launch":1360,"editor":"Tracy Bennett"}
