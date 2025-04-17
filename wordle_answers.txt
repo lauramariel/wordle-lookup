@@ -1397,3 +1397,4 @@
 {"id":903,"solution":"laugh","print_date":"2025-04-13","days_since_launch":1394,"editor":"Tracy Bennett"}
 {"id":1103,"solution":"crest","print_date":"2025-04-14","days_since_launch":1395,"editor":"Tracy Bennett"}
 {"id":1079,"solution":"ashen","print_date":"2025-04-15","days_since_launch":1396,"editor":"Tracy Bennett"}
+{"id":1732,"solution":"moral","print_date":"2025-04-16","days_since_launch":1397,"editor":"Tracy Bennett"}
