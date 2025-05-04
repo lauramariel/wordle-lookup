@@ -1414,3 +1414,4 @@
 {"id":1163,"solution":"idler","print_date":"2025-04-30","days_since_launch":1411,"editor":"Tracy Bennett"}
 {"id":1191,"solution":"adept","print_date":"2025-05-01","days_since_launch":1412,"editor":"Tracy Bennett"}
 {"id":2211,"solution":"whose","print_date":"2025-05-02","days_since_launch":1413,"editor":"Tracy Bennett"}
+{"id":1280,"solution":"patsy","print_date":"2025-05-03","days_since_launch":1414,"editor":"Tracy Bennett"}
