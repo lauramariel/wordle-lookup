@@ -1461,3 +1461,4 @@
 {"id":2192,"solution":"petty","print_date":"2025-06-16","days_since_launch":1458,"editor":"Tracy Bennett"}
 {"id":1158,"solution":"prank","print_date":"2025-06-17","days_since_launch":1459,"editor":"Tracy Bennett"}
 {"id":2099,"solution":"munch","print_date":"2025-06-18","days_since_launch":1460,"editor":"Tracy Bennett"}
+{"id":1562,"solution":"curio","print_date":"2025-06-19","days_since_launch":1461,"editor":"Tracy Bennett"}
