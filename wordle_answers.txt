@@ -1467,3 +1467,4 @@
 {"id":2199,"solution":"thrum","print_date":"2025-06-22","days_since_launch":1464,"editor":"Tracy Bennett"}
 {"id":1472,"solution":"oddly","print_date":"2025-06-23","days_since_launch":1465,"editor":"Tracy Bennett"}
 {"id":658,"solution":"elite","print_date":"2025-06-24","days_since_launch":1466,"editor":"Tracy Bennett"}
+{"id":1256,"solution":"comfy","print_date":"2025-06-25","days_since_launch":1467,"editor":"Tracy Bennett"}
