@@ -1563,3 +1563,4 @@
 {"id":809,"solution":"dally","print_date":"2025-09-26","days_since_launch":1560,"editor":"Tracy Bennett"}
 {"id":779,"solution":"fritz","print_date":"2025-09-27","days_since_launch":1561,"editor":"Tracy Bennett"}
 {"id":2090,"solution":"gooey","print_date":"2025-09-28","days_since_launch":1562,"editor":"Tracy Bennett"}
+{"id":863,"solution":"civil","print_date":"2025-09-29","days_since_launch":1563,"editor":"Tracy Bennett"}
