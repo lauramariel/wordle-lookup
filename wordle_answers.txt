@@ -1585,3 +1585,4 @@
 {"id":939,"solution":"haven","print_date":"2025-10-18","days_since_launch":1582,"editor":"Tracy Bennett"}
 {"id":899,"solution":"ideal","print_date":"2025-10-19","days_since_launch":1583,"editor":"Tracy Bennett"}
 {"id":1862,"solution":"limbo","print_date":"2025-10-20","days_since_launch":1584,"editor":"Tracy Bennett"}
+{"id":1373,"solution":"detox","print_date":"2025-10-21","days_since_launch":1585,"editor":"Tracy Bennett"}
