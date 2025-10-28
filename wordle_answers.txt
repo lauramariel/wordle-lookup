@@ -1591,3 +1591,4 @@
 {"id":1009,"solution":"tuber","print_date":"2025-10-24","days_since_launch":1588,"editor":"Tracy Bennett"}
 {"id":2138,"solution":"gauge","print_date":"2025-10-25","days_since_launch":1589,"editor":"Tracy Bennett"}
 {"id":1925,"solution":"plump","print_date":"2025-10-26","days_since_launch":1590,"editor":"Tracy Bennett"}
+{"id":795,"solution":"fetid","print_date":"2025-10-27","days_since_launch":1591,"editor":"Tracy Bennett"}
