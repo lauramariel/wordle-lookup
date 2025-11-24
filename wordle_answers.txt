@@ -1618,3 +1618,4 @@
 {"id":522,"solution":"grave","print_date":"2025-11-20","days_since_launch":1615,"editor":"Tracy Bennett"}
 {"id":739,"solution":"vowel","print_date":"2025-11-21","days_since_launch":1616,"editor":"Tracy Bennett"}
 {"id":1585,"solution":"thick","print_date":"2025-11-22","days_since_launch":1617,"editor":"Tracy Bennett"}
+{"id":1187,"solution":"bunny","print_date":"2025-11-23","days_since_launch":1618,"editor":"Tracy Bennett"}
