@@ -1623,3 +1623,4 @@
 {"id":2096,"solution":"plead","print_date":"2025-11-25","days_since_launch":1620,"editor":"Tracy Bennett"}
 {"id":787,"solution":"hovel","print_date":"2025-11-26","days_since_launch":1621,"editor":"Tracy Bennett"}
 {"id":1257,"solution":"remit","print_date":"2025-11-27","days_since_launch":1622,"editor":"Tracy Bennett"}
+{"id":2390,"solution":"colic","print_date":"2025-11-28","days_since_launch":1623,"editor":"Tracy Bennett"}
