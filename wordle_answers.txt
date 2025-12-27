@@ -1651,3 +1651,4 @@
 {"id":972,"solution":"glint","print_date":"2025-12-23","days_since_launch":1648,"editor":"Tracy Bennett"}
 {"id":1619,"solution":"spool","print_date":"2025-12-24","days_since_launch":1649,"editor":"Tracy Bennett"}
 {"id":1526,"solution":"prism","print_date":"2025-12-25","days_since_launch":1650,"editor":"Tracy Bennett"}
+{"id":1355,"solution":"speed","print_date":"2025-12-26","days_since_launch":1651,"editor":"Tracy Bennett"}
