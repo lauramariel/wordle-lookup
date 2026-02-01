@@ -1687,3 +1687,4 @@
 {"id":1442,"solution":"cruel","print_date":"2026-01-28","days_since_launch":1684,"editor":"Tracy Bennett"}
 {"id":2098,"solution":"flaky","print_date":"2026-01-29","days_since_launch":1685,"editor":"Tracy Bennett"}
 {"id":1204,"solution":"jumbo","print_date":"2026-01-30","days_since_launch":1686,"editor":"Tracy Bennett"}
+{"id":2073,"solution":"allot","print_date":"2026-01-31","days_since_launch":1687,"editor":"Tracy Bennett"}
