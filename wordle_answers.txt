@@ -1690,3 +1690,4 @@
 {"id":2073,"solution":"allot","print_date":"2026-01-31","days_since_launch":1687,"editor":"Tracy Bennett"}
 {"id":743,"solution":"spiny","print_date":"2026-02-01","days_since_launch":1688,"editor":"Tracy Bennett"}
 {"id":2398,"solution":"cigar","print_date":"2026-02-02","days_since_launch":1689,"editor":"Tracy Bennett"}
+{"id":1763,"solution":"weigh","print_date":"2026-02-03","days_since_launch":1690,"editor":"Tracy Bennett"}
