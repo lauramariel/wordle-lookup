@@ -1749,3 +1749,4 @@
 {"id":1235,"solution":"swamp","print_date":"2026-03-31","days_since_launch":1746,"editor":"Tracy Bennett"}
 {"id":1981,"solution":"fizzy","print_date":"2026-04-01","days_since_launch":1747,"editor":"Tracy Bennett"}
 {"id":1425,"solution":"sober","print_date":"2026-04-02","days_since_launch":1748,"editor":"Tracy Bennett"}
+{"id":603,"solution":"singe","print_date":"2026-04-03","days_since_launch":1749,"editor":"Tracy Bennett"}
