@@ -1776,3 +1776,4 @@
 {"id":595,"solution":"eerie","print_date":"2026-04-27","days_since_launch":1773,"editor":"Tracy Bennett"}
 {"id":1239,"solution":"quack","print_date":"2026-04-28","days_since_launch":1774,"editor":"Tracy Bennett"}
 {"id":2286,"solution":"rural","print_date":"2026-04-29","days_since_launch":1775,"editor":"Tracy Bennett"}
+{"id":667,"solution":"crock","print_date":"2026-04-30","days_since_launch":1776,"editor":"Tracy Bennett"}
