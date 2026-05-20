@@ -1795,3 +1795,4 @@
 {"id":1423,"solution":"mover","print_date":"2026-05-16","days_since_launch":1792,"editor":"Tracy Bennett"}
 {"id":1177,"solution":"bylaw","print_date":"2026-05-17","days_since_launch":1793,"editor":"Tracy Bennett"}
 {"id":670,"solution":"loath","print_date":"2026-05-18","days_since_launch":1794,"editor":"Tracy Bennett"}
+{"id":1448,"solution":"dusty","print_date":"2026-05-19","days_since_launch":1795,"editor":"Tracy Bennett"}
