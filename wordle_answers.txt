@@ -1868,3 +1868,4 @@
 {"id":1841,"solution":"sonar","print_date":"2026-07-28","days_since_launch":1865,"editor":"Tracy Bennett"}
 {"id":527,"solution":"valve","print_date":"2026-07-29","days_since_launch":1866,"editor":"Tracy Bennett"}
 {"id":3148,"solution":"flume","print_date":"2026-07-30","days_since_launch":1867,"editor":"Tracy Bennett"}
+{"id":665,"solution":"purse","print_date":"2026-07-31","days_since_launch":1868,"editor":"Tracy Bennett"}
