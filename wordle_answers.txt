@@ -1986,3 +1986,4 @@
 {"id":1997,"solution":"filth","print_date":"2026-11-23","days_since_launch":1983,"editor":"Tracy Bennett"}
 {"id":1202,"solution":"sneer","print_date":"2026-11-24","days_since_launch":1984,"editor":"Tracy Bennett"}
 {"id":4189,"solution":"spicy","print_date":"2026-11-25","days_since_launch":1985,"editor":"Tracy Bennett"}
+{"id":1375,"solution":"tense","print_date":"2026-11-26","days_since_launch":1986,"editor":"Tracy Bennett"}
